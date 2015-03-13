@@ -8,4 +8,4 @@ Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have
 
 ![iOS Icon Template](https://raw.githubusercontent.com/skynebula/ios-icon-template/master/iOS-Icon-Template.jpg)
 
-Licence [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+Licence : [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
