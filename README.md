@@ -7,3 +7,5 @@ With this PSD, you'll be able to automatically generate an assets folder, contai
 Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have any question...
 
 ![iOS Icon Template](https://raw.githubusercontent.com/skynebula/ios-icon-template/master/iOS-Icon-Template.jpg)
+
+Licence [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
